@@ -18,6 +18,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
+---
 ## I'm Aditya Sinha
 ### 👨‍💻 About Me :
 - 🖥️ I'm working as a Software Engineer at 🏦 JPMorgan Chase & Co.. I contribute to designing distributed systems and modernizing legacy systems.
