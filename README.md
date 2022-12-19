@@ -3,7 +3,7 @@
 </div>
 <br>
 <div id="badges" align="center">
-  <a href="www.linkedin.com/in/sinhaaditya99">
+  <a href="https://www.linkedin.com/in/sinhaaditya99">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:aditya.sinha99@gmail.com">
@@ -25,7 +25,7 @@
 - ⚡In my free time, I solve problems on LeetCode 😅 and binge on Netflix.
 - 🌱 I’m currently exploring Golang.
 - 💞️ I’m looking to collaborate on ideas solving problems using technology.
-- 📫 How to reach me [![Linkedin Badge](https://img.shields.io/badge/-sinhaaditya99-blue?style=flat-square&logo=Linkedin&logoColor=white)](www.linkedin.com/in/sinhaaditya99)
+- 📫 How to reach me [![Linkedin Badge](https://img.shields.io/badge/sinhaaditya99-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sinhaaditya99)
 
 ----
 ### 🛠️ Languages, Frameworks and Technologies :
