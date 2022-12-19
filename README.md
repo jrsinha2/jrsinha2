@@ -1,5 +1,5 @@
 <div id="header" align="center">
-<img src="https://media.giphy.com/media/Yfl7CS7vQqnebA69aH/giphy.gif" width="100">
+<img src="https://media.giphy.com/media/TdjQAgDIkRsYm1HUbt/giphy.gif" width="30%">
 </div>
 <br>
 <div id="badges" align="center">
@@ -13,11 +13,18 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-- 👋 Hi, I’m @jrsinha2
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<h1 align="center">
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+
+## I'm Aditya Sinha
+### 👨‍💻 About Me :
+- 🖥️ I'm working as a Software Engineer at 🏦 JPMorgan Chase & Co.. I contribute to designing distributed systems and modernizing legacy systems.
+- ⚡In my free time, I solve problems on LeetCode 😅 and binge on Netflix.
+- 🌱 I’m currently exploring Golang.
+- 💞️ I’m looking to collaborate on ideas solving problems using technology.
+- 📫 How to reach me [![Linkedin Badge](https://img.shields.io/badge/-sinhaaditya99-blue?style=flat-square&logo=Linkedin&logoColor=white)](www.linkedin.com/in/sinhaaditya99)
 
 <!---
 jrsinha2/jrsinha2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
