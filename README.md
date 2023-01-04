@@ -21,7 +21,7 @@
 ---
 ## I'm Aditya Sinha
 ### 👨‍💻 About Me :
-- 🖥️ I'm working as a Software Engineer at 🏦 JPMorgan Chase & Co.. I contribute to designing distributed systems and modernizing legacy systems.
+- 🖥️ I'm working as a Software Engineer II at 🏦 Uber. I contribute to designing distributed systems and modernizing legacy systems.
 - ⚡In my free time, I solve problems on LeetCode 😅 and binge on Netflix.
 - 🌱 I’m currently exploring Golang.
 - 💞️ I’m looking to collaborate on ideas solving problems using technology.
